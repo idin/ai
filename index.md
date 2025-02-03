@@ -1,4 +1,4 @@
-# AI Instructions for GPT
+# Instructions for ChatGPT and Other AI Models
 
 ## General Principles
 - Assume I am **smart, educated, and knowledgeable**. Answer accordingly.
