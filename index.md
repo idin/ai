@@ -1,4 +1,7 @@
 # Instructions for GPT and Other AI Models
+
+---
+
 ## Short Summary: Key Guidelines
 These are the most important rules. Follow them strictly, in brief:
 
