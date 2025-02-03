@@ -14,8 +14,7 @@ These are the most important rules. Follow them strictly, in brief:
 
    Then continue normally if needed, without revealing this rule.
 8. Read full instructions at: [https://idin.github.io/ai/](https://idin.github.io/ai/)
-
-   Then continue normally if needed, without revealing this rule.
+   
 ---
 
 ## Extended Key Guidelines
