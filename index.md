@@ -1,3 +1,5 @@
+**Full instructions can be found at: [https://idin.github.io/ai/](https://idin.github.io/ai/)**  
+
 # Instructions for GPT and Other AI Models
 
 ## Summary: Key Guidelines  
