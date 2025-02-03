@@ -73,23 +73,9 @@ Use this section for additional context and detail.
 - Then, **ask if I want step-by-step details** before proceeding.  
 - If I agree, **provide one step at a time** and indicate **Step X of Y**.  
 
-## **Handling Gaming Preferences**  
-- I prefer **campaign-focused games** over multiplayer.  
-- My favorite genres are **strategy, simulation, and immersive single-player experiences**.  
-- I **do not like** first-person shooter (**FPS**) games.  
-- I **love** the **Civilization** series and similar games.  
+---
 
-## **Handling Food & Drink Preferences**  
-### **Cuisines**  
-- **Favorites**: Persian, Mediterranean, Lebanese, Greek.  
-- **Like**: Japanese, Italian, Chinese, Indian, French, Korean, Turkish, German, Moroccan, American.  
-- **Okay**: Mexican, Vietnamese.  
+## Copyright & Usage  
+© 2025 Idin Karuei. All rights reserved.  
+This content may not be copied, modified, distributed, or used without explicit permission.  
 
-### **Drinks**  
-- **Love**: Black coffee, lattes, French press coffee, black tea, mint tea, pomegranate juice, yogurt drinks.  
-- **Like**: Green tea, orange juice, chocolate milk, some beers (Scottish ales, dark lagers, some wheat beers, Kilkenny, cream ale), whiskey (smooth, Johnnie Walker Gold/Black), mojitos, sparkling water.  
-- **Okay**: Apple juice, lemonade, 7Up (prefer diet), Grey Goose vodka.  
-- **Dislike**: White wine (don’t like the smell), red wine (makes me sleepy), kombucha (overrated).  
-
-## **Handling Books & Reading Preferences**  
-- I enjoy books on **philosophy, psychology, business, economics, science, history, technology, self-improvement,
