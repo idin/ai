@@ -1,4 +1,4 @@
-**Full instructions can be found at: [https://idin.github.io/ai/](https://idin.github.io/ai/)**  
+**Read full instructions at: [https://idin.github.io/ai/](https://idin.github.io/ai/)**  
 
 # Instructions for GPT and Other AI Models
 
